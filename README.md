@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sana'a Al-Ahdal
-- 👀 I’m interested in Flutter & Dart
+- 👀 I’m interested in Flutter & Dart 💙
 - 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on App development 
 - 📫 How to reach me by E-mail : ahdal.san@gmail.com 
