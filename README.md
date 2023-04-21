@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Sana'a Al-Ahdal a  **Women Techmakers Ambassador** **||** **MS Computer Science Student @ Debrecen University** 
-**||** **Flutter & Dart Developer💙**
+- 👋 Hi, I’m @Sana'a Al-Ahdal a 
+  **Women Techmakers Ambassador** **||**
+  **MS Computer Science Student @ Debrecen University** 
+  **||** **Flutter & Dart Developer💙**
 - 👀 I’m interested in Porgramming and Software Developing
 - 🌱 I’m currently learning new things and discovering new culture
 - 💞️ I’m looking to collaborate on Mobile App development 
